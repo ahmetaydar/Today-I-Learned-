@@ -46,11 +46,3 @@ const initialFacts = [
 // LINK TO APP SAMPLE DATA: https://docs.google.com/spreadsheets/d/1eeldcA_OwP4DHYEvjG0kDe0cRys-cDPhc_E9P9G1e3I/edit#gid=0
 
 // 👍 🤯 ⛔️
-
-const x = {
-  f: 20,
-  s: 30,
-  f: 50,
-};
-
-console.log(x);

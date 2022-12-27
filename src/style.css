@@ -10,12 +10,18 @@ body {
   font-family: "Sono", sans-serif;
   padding: 48px 64px;
 }
-
+.message {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 32px;
+  font-weight: 600;
+  margin-top: 24px;
+}
 .hidden {
   display: none !important;
 }
 /* MAIN LAYOUT */
-.container {
+#root {
   max-width: 1500px;
 
   margin: 0 auto;

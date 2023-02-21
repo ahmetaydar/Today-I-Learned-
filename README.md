@@ -1,4 +1,5 @@
 Project link :  https://todayilearned-ahmet-aydar.netlify.app/
+![Capture](https://user-images.githubusercontent.com/62577539/220339007-0ae5ea06-1883-47c9-adc5-f1f10307ba9a.PNG)
 
 # Getting Started with Create React App
 
